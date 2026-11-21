@@ -1,4 +1,4 @@
-# Akaleme Solomon – Cybersecurity Portfolio
+# Akaleme Solomon / My-cv
 
 Welcome to my cybersecurity portfolio repository.
 
